@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.completablefuture.SquareCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-03T09:25:39" hostname="DH-N-0258-jiaekim.local" time="0.015">
+  <properties/>
+  <testcase name="CompletableFuture_anyOf()" classname="com.completablefuture.SquareCalculatorTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[7월 03, 2021 6:25:39 오후 com.completablefuture.SquareCalculatorTest lambda$CompletableFuture_anyOf$35
+정보: starting future1
+7월 03, 2021 6:25:39 오후 com.completablefuture.SquareCalculatorTest lambda$CompletableFuture_anyOf$36
+정보: starting future2
+7월 03, 2021 6:25:39 오후 com.completablefuture.SquareCalculatorTest lambda$CompletableFuture_anyOf$38
+정보: Result: Future1
+7월 03, 2021 6:25:39 오후 com.completablefuture.SquareCalculatorTest lambda$CompletableFuture_anyOf$37
+정보: starting future3
+]]></system-err>
+</testsuite>
